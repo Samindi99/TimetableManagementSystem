@@ -27,6 +27,7 @@ namespace TimeTableM
             cmbbuildingName.Items.Add("Engineering Building");
             cmbbuildingName.Items.Add("Business Building");
             cmbbuildingName.Items.Add("New Building");
+            cmbbuildingName.Items.Add("D-Block");
         }
 
         private void button4_Click(object sender, EventArgs e)
