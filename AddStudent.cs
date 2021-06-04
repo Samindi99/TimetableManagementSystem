@@ -33,6 +33,7 @@ namespace TimeTableM
             cmbAcademicSemYear.Items.Add("Y3 S2");
             cmbAcademicSemYear.Items.Add("Y4 S1");
             cmbAcademicSemYear.Items.Add("Y4 S2");
+            //acedemic semesters
         }
        
         /*void ProgrammeS()
